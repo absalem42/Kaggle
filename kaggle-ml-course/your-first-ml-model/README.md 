@@ -1,0 +1,13 @@
+# 🤖 Your First Machine Learning Model
+
+This folder contains my work from the [Kaggle lesson](https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model)  on building the first machine learning model.
+
+## 📋 What I Did
+- Built my first ML model using a Decision Tree Regressor
+- Selected features and defined the target (`Price`)
+- Trained the model and made predictions
+
+## 📁 Files Included
+- `your_first_ml_model.ipynb`: My working notebook
+- `notes.md`: Summary of concepts and code
+- `melb_data.csv`: Original dataset
